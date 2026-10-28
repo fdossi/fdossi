@@ -97,8 +97,6 @@ Python · Git · Jupyter · NumPy · processamento e visualização de imagens �
 
 </div>
 
----
-
 <div align="center">
 
 ### Connect | Contato
@@ -107,5 +105,8 @@ Python · Git · Jupyter · NumPy · processamento e visualização de imagens �
 
 *Science-informed software · Open tools · Reproducible workflows*  
 *Software orientado pela ciência · Ferramentas abertas · Fluxos reproduzíveis*
+</div>
 
+<div align="center">
+<a href='https://ko-fi.com/G2W529MXFC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
