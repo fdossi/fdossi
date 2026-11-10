@@ -37,10 +37,8 @@ I work at the intersection of **scientific methodology and software development*
 | **[EDSMapPlotter](https://github.com/fdossi/EDSMapPlotter)** | Converts SEM-EDS/EDX CSV measurements into high-resolution elemental maps. | Scientific visualization |
 | **[EDSLab](https://github.com/fdossi/EDSLab)** | Python application for EDS hyperspectral data processing, analysis and visualization. | Spectroscopy & data science |
 | **[SciSeek](https://github.com/fdossi/SciSeek)** | Local-first desktop/CLI search for terms and patterns across scientific documents. | Document analysis |
-| **[RefMerger](https://github.com/fdossi/refmerger)** | Merges, converts and deduplicates bibliographic references. | Reference management |
-| **[Attach-Finder](https://github.com/fdossi/Attach-Finder)** | Zotero plugin that associates locally stored PDFs with library items using DOIs. | Research automation |
 
-**Also exploring:** [ZotRead](https://github.com/fdossi/zotread) · [Fiji EZFig Fixer](https://github.com/fdossi/fiji-fixer) · [Python for Microscopists](https://github.com/fdossi/python_for_microscopists)
+**Also exploring:** [ZotRead](https://github.com/fdossi/zotread)
 
 ### Technical toolkit
 
