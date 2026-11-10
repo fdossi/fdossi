@@ -74,10 +74,8 @@ Atuo na interface entre **metodologia científica e desenvolvimento de software*
 | **[EDSMapPlotter](https://github.com/fdossi/EDSMapPlotter)** | Gera mapas elementares de alta resolução a partir de arquivos CSV de MEV-EDS/EDX. | Visualização científica |
 | **[EDSLab](https://github.com/fdossi/EDSLab)** | Aplicação Python para processamento, análise e visualização de dados hiperespectrais EDS. | Espectroscopia e dados |
 | **[SciSeek](https://github.com/fdossi/SciSeek)** | Busca local de termos, padrões e expressões em documentos científicos, por interface gráfica ou terminal. | Análise documental |
-| **[RefMerger](https://github.com/fdossi/refmerger)** | Converte, combina e remove referências bibliográficas duplicadas. | Gestão bibliográfica |
-| **[Attach-Finder](https://github.com/fdossi/Attach-Finder)** | Associa PDFs locais a itens do Zotero por identificação de DOI. | Automação científica |
 
-**Outros projetos:** [ZotRead](https://github.com/fdossi/zotread) · [Fiji EZFig Fixer](https://github.com/fdossi/fiji-fixer) · [Python for Microscopists](https://github.com/fdossi/python_for_microscopists)
+**Outros projetos:** [ZotRead](https://github.com/fdossi/zotread)
 
 ### Ferramentas e competências
 
